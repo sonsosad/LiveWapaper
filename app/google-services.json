@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "26601018735",
+    "firebase_url": "https://androidlivewallpaper-d13cc.firebaseio.com",
+    "project_id": "androidlivewallpaper-d13cc",
+    "storage_bucket": "androidlivewallpaper-d13cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26601018735:android:feae63117361539a74c49a",
+        "android_client_info": {
+          "package_name": "com.son.androidlivewallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26601018735-eg8oibbh2rtj7875pli4jkc6nj9e74om.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmd0EHcuEB0vSldZKyG7XdIulKYeb1LQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26601018735-eg8oibbh2rtj7875pli4jkc6nj9e74om.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
